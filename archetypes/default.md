@@ -2,11 +2,8 @@
 date = "2014-07-11T10:54:24+02:00"
 draft = false
 title = "Post title"
-slug = "post-title"
-tags = ["tag1","tag2"]
+tags = []
 image = ""
-comments = true	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""		# set "main" to add this content to the main menu
-author = ""
+imageurl = "https://41.media.tumblr.com/c52fec0a8ad4c1ddb6d93870290619d7/tumblr_nmcb5higeE1tqgztwo3_1280.jpg"
+comments = true
 +++
